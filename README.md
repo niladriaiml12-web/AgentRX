@@ -12,7 +12,7 @@ The current repository contains a backend-first implementation with:
 - Local mock enterprise data for IQVIA and EXIM analysis
 - A resumable pipeline with human approval pause points
 
----
+----
 
 ## Architecture
 
